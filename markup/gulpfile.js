@@ -27,8 +27,8 @@ elixir(function(mix) {
     mix.less('theme.less','assets/compiled/css/theme.css');
 
     mix.scripts([
-        'plugins/jquery-1.11.2.min.js',
-        'plugins/bootstrap.min.js',
+        '../../node_modules/jquery/dist/jquery.min.js',
+        '../../node_modules/bootstrap/dist/js/bootstrap.min.js',
         'plugins',
         'custom'
     ], 'assets/compiled/js/theme.js');

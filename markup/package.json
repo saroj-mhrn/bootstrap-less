@@ -3,6 +3,7 @@
   "devDependencies": {},
   "dependencies": {
     "gulp": "^3.9.1",
+    "jquery": "3.2.1",
     "bootstrap": "3",
     "laravel-elixir": "^6.0.0-10"
   }

@@ -1,0 +1,7 @@
+node_modules
+markup/node_modules
+markup/assets/compiled
+.DS_Store
+.thumbs
+.idea
+.env
